@@ -144,11 +144,11 @@ class Functions():
 
 class Speds(Functions):
 
-    cor_de_fundo = "DarkRed"
-    cor_dentro_frame = "Navy"
-    cor_bordas_frame = "black"
-    cor_texto_titulo = "DarkRed"
-    cor_botoes = "Red"
+    cor_de_fundo = "RoyalBlue"
+    cor_dentro_frame = "SteelBlue"
+    cor_bordas_frame = "LightSlateGray"
+    cor_texto_titulo = "Blue"
+    cor_botoes = "SlateGray"
 
     def __init__(self):
         self.window_sped = window_sped
